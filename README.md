@@ -55,7 +55,7 @@ Mục tiêu: Nhận diện và phân loại 14 loại thiết bị trong hình �
 | 2   | Súng trường     | AK, M16, liên thanh     |
 | 3   | Súng khác       | Shotgun, Sniper, tự chế |
 | 4   | Dao to          | Dao chặt, dao thái      |
-| 5   | Dao nhỏ         | Dao găm, dao gọ t       |
+| 5   | Dao nhỏ         | Dao găm, dao gọt       |
 | 6   | Gậy             | Baton, côn              |
 | 7   | Kiếm            | Phóng lợn, đao          |
 | 8   | Rìu, búa        | Dùng lực mạnh           |
