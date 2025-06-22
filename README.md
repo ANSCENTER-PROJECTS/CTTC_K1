@@ -11,7 +11,6 @@ Khóa học này bao gồm hai bài toán nhận dạng và phân loại hình �
 
 ## Folder Structure
 
-.
 ├── FacemaskDetection/        
 ├── WeaponDetection/          
 └── README.md                 
