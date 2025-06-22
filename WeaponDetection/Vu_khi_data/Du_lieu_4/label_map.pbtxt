@@ -1,0 +1,10 @@
+item {
+	id:1
+	name:'Gun'
+}
+
+item {
+	id:2
+	name:'Heavy_gun'
+}
+
